@@ -18,7 +18,7 @@
 #### Databases
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)
 #### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,git,github,ai,blender,coreldraw,ap)
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github,ai,blender,corel)
 
 
 # 📊 GitHub Stats:
