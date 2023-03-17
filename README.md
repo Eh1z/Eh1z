@@ -1,8 +1,11 @@
 ## About me :
-- Hey there I am Godsent , Stoked to meet you..!
+- Hey there I am Godsent , Welcome to my Github Code Tavern..!
 - 🔭 I’m currently exploring Full Stack Software Engineering.
-- Whilst also pursuing an academic journey in Medicine and Surgery.  
+- Whilst also on an academic journey in Medicine and Surgery.  
 - I am highly interested in collaborating with developers and making amazing projects , do connect with me if you find my profile matching with what you expect.<br/>
+
+![](https://komarev.com/ghpvc/?username=Eh1z&color=violet&plastic)
+
 <h1>Connect with me!</h1>
 <a href=https://www.linkedin.com/in/godsentehiz/><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href=https://twitter.com/GodsentEhiz><img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
