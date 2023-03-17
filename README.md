@@ -12,10 +12,10 @@
 ## Technologies:
 
 #### Web-Development
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,jquery,react,nextjs,vite,nodejs,webflow,wordpress)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,jquery,react,,webflow,wordpress)
 
 #### Programming Languages and Frameworks
-![My Skills](https://skillicons.dev/icons?i=c,py,flask,bash,)
+![My Skills](https://skillicons.dev/icons?i=c,py,flask,bash,nextjs,vite,nodejs)
 #### Databases
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)
 #### More
