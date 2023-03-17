@@ -12,13 +12,17 @@
 ## Technologies:
 
 #### Web-Development
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,materialui,jquery,react,nodejs,solidity)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,jquery,react,nextjs,vite,nodejs,webflow,wordpress)
+
 #### Programming Languages and Frameworks
-![My Skills](https://skillicons.dev/icons?i=c,python,flask,)
+![My Skills](https://skillicons.dev/icons?i=c,py,flask,bash,)
 #### Databases
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)
+#### More
+![My Skills](https://skillicons.dev/icons?i=linux,regex,sass,firebase,netlify,vim,emacs,)
+
 #### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,git,github,ai,blender,corel)
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github,ai,ps,blender,figma)
 
 
 # 📊 GitHub Stats:
