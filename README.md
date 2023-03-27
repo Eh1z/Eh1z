@@ -35,8 +35,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com?user=&border_radius=5)](https://git.io/streak-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Eh1z&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=&border_radius=5)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eh1z&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # Github Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Eh1z&theme=radical&no-frame=false&no-bg=true&margin-w=4)
