@@ -1,6 +1,6 @@
 #Hello there 👋
 
-## I'm Godsent E. Oyarekhua
+##I'm Godsent E. Oyarekhua
 <small style='font-size:12px;'>Welcome to my Github Code Tavern..!</small>
 
 - 🔭 I’m currently exploring all areas of Full Stack Software Engineering.
