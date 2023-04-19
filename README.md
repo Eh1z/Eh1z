@@ -25,7 +25,7 @@
 ![My Skills](https://skillicons.dev/icons?i=c,py,flask,bash,nextjs,vite,nodejs)
 
 #### More
-![My Skills](https://skillicons.dev/icons?i=linux,regex,sass,firebase,netlify,vim,emacs,)
+![My Skills](https://skillicons.dev/icons?i=linux,regex,sass,firebase,netlify,vim)
 
 #### Databases
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)
