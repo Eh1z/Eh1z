@@ -1,7 +1,7 @@
 #Hello there 👋
 
 ## I'm Godsent E. Oyarekhua
-<small style='font-size:12px;'>Welcome to my Github Code Tavern..!</small>
+<small style='font-size:12px;'>Welcome to my GitHub Code Tavern..!</small>
 
 - 🔭 I’m currently exploring all areas of Full Stack Software Engineering.
 - Whilst also on an academic journey in Medicine and Surgery.  
@@ -19,19 +19,19 @@
 ## Technologies:
 
 #### Web-Development
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,jquery,react,webflow,wordpress)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,tailwindcss,react)
 
 #### Programming Languages and Frameworks
-![My Skills](https://skillicons.dev/icons?i=c,py,flask,bash,nextjs,vite,nodejs)
+![My Skills](https://skillicons.dev/icons?i=c,py,django,flask,bash,nextjs,vite,nodejs)
 
 #### More
-![My Skills](https://skillicons.dev/icons?i=linux,regex,sass,firebase,netlify,vim)
+![My Skills](https://skillicons.dev/icons?i=linux,regex,firebase,netlify,vim)
 
 #### Databases
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)
 
 #### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,git,github,ai,ps,blender,figma)
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github,ai,ps,figma)
 
 
 # 📊 GitHub Stats:
