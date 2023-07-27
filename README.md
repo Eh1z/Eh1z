@@ -3,7 +3,7 @@
 ## I'm Godsent E. Oyarekhua
 <small style='font-size:12px;'>Welcome to my GitHub Code Tavern..!</small>
 
-- 🔭 I’m currently exploring all areas of Full Stack Software Engineering.
+- A Full Stack Software Engineering.
 - Whilst also on an academic journey in Medicine and Surgery.  
 - I am highly interested in collaborating with developers and making amazing projects, do connect with me if you find my profile matching with what you expect.<br/>
 - 
@@ -18,20 +18,21 @@
 
 ## Technologies:
 
-#### Web-Development
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,tailwindcss,react)
+#### Languages
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,py,c,bash)
 
-#### Programming Languages and Frameworks
-![My Skills](https://skillicons.dev/icons?i=c,py,django,flask,bash,nextjs,vite,nodejs)
-
-#### More
-![My Skills](https://skillicons.dev/icons?i=linux,regex,firebase,netlify,vim)
+#### Frameworks & Libraries
+![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,vite,nodejs,tailwind)
+![My Skills](https://skillicons.dev/icons?i=django,flask,docker,rabbitmq)
 
 #### Databases
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase)
+
+#### More
+![My Skills](https://skillicons.dev/icons?i=linux,regex,firebase,netlify,vercel,heroku,webflow,wordpress)
 
 #### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,git,github,ai,ps,figma)
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github,ai,ps,figma,vim)
 
 
 # 📊 GitHub Stats:
