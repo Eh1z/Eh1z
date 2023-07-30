@@ -3,7 +3,7 @@
 ## I'm Godsent E. Oyarekhua
 <small style='font-size:12px;'>Welcome to my GitHub Code Tavern..!</small>
 
-- A Full Stack Software Engineering.
+- A Full Stack Software Engineer.
 - Whilst also on an academic journey in Medicine and Surgery.  
 - I am highly interested in collaborating with developers and making amazing projects, do connect with me if you find my profile matching with what you expect.<br/>
 - On the hunt for an internship or junior role in Software Engineering.
