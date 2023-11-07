@@ -18,7 +18,7 @@
 
 ## Technologies:
 
-#### Languages
+#### Languages.
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,py,c,bash)
 
 #### Frameworks & Libraries
