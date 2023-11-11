@@ -1,6 +1,6 @@
 #Hello there 👋
 
-## I'm Godsent Ehizokhale Oyarekhua.
+## I'm Godsent Ehizokhale Oyarekhua
 <small style='font-size:12px;'>Welcome to my GitHub Code Tavern..!</small>
 
 - A Full Stack Software Engineer & an MBBS Student  
