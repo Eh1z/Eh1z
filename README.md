@@ -1,7 +1,7 @@
 ## Hello there👋
 
 ## I'm Godsent Ehizokhale Oyarekhua
-<small style='font-size:12px;'>Welcome to my GitHub Code Tavern..!</small>
+<small style='font-size:12px;'>Welcome to my GitHub Code Tavern...!</small>
 
 - A Full Stack Software Engineer & an MBBS Student  
 - I am highly interested in with developers and making amazing projects, do connect with me if you find my profile matching with what you expect.<br/>
