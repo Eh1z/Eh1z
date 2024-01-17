@@ -1,4 +1,4 @@
-## Hello there👋
+## Hello there 👋
 
 ## I'm Godsent Ehizokhale Oyarekhua
 <small style='font-size:12px;'>Welcome to my GitHub Code Tavern...!</small>
