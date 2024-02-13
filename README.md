@@ -38,7 +38,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Eh1z&border_radius=5&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eh1z&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 
