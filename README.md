@@ -4,35 +4,32 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Godsent+Oyarekhua!;"/>
 </h1>
 
-<small align="center">A passionate Software Engineer  specializing in crafting elegant solutions to complex problems. With a keen eye for detail and a knack for innovation, I create immersive digital experiences that captivate audiences and drive business growth.
+<small align="justify">A passionate Software Engineer  specializing in crafting elegant solutions to complex problems. With a keen eye for detail and a knack for innovation, I create immersive digital experiences that captivate audiences and drive business growth.
 </small>
 <br/>
 
 <br/>
 
 <div align="center">
-
 **Welcome to my GitHub Code Tavern...!**
- 
- 🔭 I’m currently spearheading the development of a revolutionary **Skill Marketplace App**
- 
- 🌱 I’m continuously honing my expertise in **NextJS, Django & Flask , Expo/React-Native** for seamless application deployment and scalability.
-
-⚡ Fun fact **In the early days, "Computer" was a job title, and the pioneering programmers were women.**
-
+     
+🔭 I’m currently spearheading the development of a revolutionary **Skill Marketplace App**
+🌱 I’m continuously honing my expertise in **NextJS, Django & Flask , Expo/React-Native** for seamless application deployment and scalability.
+⚡ Fun fact "In the early days, **"Computer"** was a job title, and the pioneering programmers were women."
  </div>
+ 
  <div align="center">
     
-<h3 align="center"> 🚀 **Let's Build Something Amazing Together!**</h3>
+<h3 align="center"> 🚀 Let's Build Something Amazing Together!</h3>
 
 ## What I Offer:
-    <div align="left">
+<div align="left">
     - **Custom Web Development**: From sleek landing pages to robust web applications, I build tailored solutions that meet your unique needs and exceed your        expectations.
     - **Mobile App Development**: Harness the power of mobile technology with intuitive and engaging mobile apps for iOS and Android platforms.
     - **E-commerce Solutions**: Elevate your online business with seamless e-commerce platforms that streamline operations and maximize revenue.
     - **UI/UX Design**: Delight your users with stunning designs and intuitive interfaces that enhance usability and leave a lasting impression.
     - **Consultation & Support**: I provide expert guidance and ongoing support to ensure your project's success every step of the way.
-    </div>
+</div>
 
 </div>
  
