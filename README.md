@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-**Welcome to my GitHub Code Tavern...!**
+    **Welcome to my GitHub Code Tavern...!**
      
 🔭 I’m currently spearheading the development of a revolutionary **Skill Marketplace App**
 
@@ -26,7 +26,7 @@
 
 ## What I Offer:
 <div align="left">
-- **Custom Web Development**: From sleek landing pages to robust web applications, I build tailored solutions that meet your unique needs and exceed your        expectations.
+    - **Custom Web Development**: From sleek landing pages to robust web applications, I build tailored solutions that meet your unique needs and exceed your        expectations.
     
 - **Mobile App Development**: Harness the power of mobile technology with intuitive and engaging mobile apps for iOS and Android platforms.
     
