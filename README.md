@@ -6,11 +6,12 @@
 
 <h3 align="center">A passionate Full Software Engineer & MBBS Student</h3>
 <br/>
-<small style='font-size:12px;'>Welcome to my GitHub Code Tavern...!</small>
 
 <br/>
 
 <div align="center">
+
+**Welcome to my GitHub Code Tavern...!**
  
  🔭 I’m currently working on **a skill marketplace app**
  
@@ -28,11 +29,11 @@
   </a>
   
   <a href=https://twitter.com/GodsentEhiz>
-     <img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
     
  <a href=https://discord.com/users/Eh1z#7745>
-     <img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
  </a>  
  
   <a href="https://www.linkedin.com/in/godsentehiz/" target="_blank">
@@ -52,16 +53,16 @@
 <br/>
 <div align="center">
   <h3 align="left">Frontend:</h3>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,figma,expo,redux,vite,express" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,figma,redux,vite,express" />
 
   <h3 align="left">Backend:</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,mongo,myqsl,postgres,firebase,django,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,mongo,mysql,postgres,firebase,django,flask" /><br>
   
   <h3 align="left">Languages:>
-   <img src="https://skillicons.dev/icons?i=c,html,css,sass,js,ts,python,bash,sql,regex" /><br>
+   <img src="https://skillicons.dev/icons?i=c,html,css,sass,js,ts,python,bash,regex" /><br>
 
   <h3 align="left">Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,github,regex,git,docker,netlify,vercel",kubernetes /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,regex,git,docker,netlify,vercel,kubernetes" /><br>
 </div>
 
 <br/>
@@ -80,10 +81,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Eh1z.vercel.app/?user=Eh1z&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Eh1z.vercel.app/api?username=Eh1z&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Eh1z&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Eh1z&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Eh1z.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
