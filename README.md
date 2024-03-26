@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Godsent+Oyarekhua!;"/>
 </h1>
 
-<h3 align="center">A passionate Full Software Engineer & MBBS Student</h3>
+<h3 align="center">A passionate Software Engineer  specializing in crafting elegant solutions to complex problems. With a keen eye for detail and a knack for innovation, I create immersive digital experiences that captivate audiences and drive business growth.
+</h3>
 <br/>
 
 <br/>
@@ -13,17 +14,29 @@
 
 **Welcome to my GitHub Code Tavern...!**
  
- 🔭 I’m currently working on **a skill marketplace app**
+ 🔭 I’m currently spearheading the development of a revolutionary **Skill Marketplace App**
  
- 🌱 I’m currently learning **Docker, Kubernetes, Expo/React-Native**
+ 🌱 I’m continuously honing my expertise in **NextJS, Django & Flask , Expo/React-Native** for seamless application deployment and scalability.
 
 💬 Ask me about **Python, React, NextJS... or anything [here](https://github.com/Eh1z/Eh1z/issues)**
 
-⚡ Fun fact **Computer was a job title, and the first programmers were women**
+⚡ Fun fact **In the early days, "Computer" was a job title, and the pioneering programmers were women.**
 
  </div>
+ <div align="center">
+    
+<h2 align="center"> 🚀 **Let's Build Something Amazing Together!**</h2>
+
+## What I Offer:
+- **Custom Web Development**: From sleek landing pages to robust web applications, I build tailored solutions that meet your unique needs and exceed your expectations.
+- **Mobile App Development**: Harness the power of mobile technology with intuitive and engaging mobile apps for iOS and Android platforms.
+- **E-commerce Solutions**: Elevate your online business with seamless e-commerce platforms that streamline operations and maximize revenue.
+- **UI/UX Design**: Delight your users with stunning designs and intuitive interfaces that enhance usability and leave a lasting impression.
+- **Consultation & Support**: I provide expert guidance and ongoing support to ensure your project's success every step of the way.
+</div>
  
 <div align="center"> 
+   <h2>Let's turn your ideas into reality! Reach out to discuss your project requirements and kickstart our collaboration today.</h2>
   <a href="mailto:godsentehiz11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -49,7 +62,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages && Frameworks && Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
   <h3 align="center">Frontend</h3>
