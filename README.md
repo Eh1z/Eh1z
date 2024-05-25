@@ -29,15 +29,15 @@
 ## What I Offer:
 <div align="left">
 
-- **Custom Web Development** : From sleek landing pages to robust web applications, I build tailored solutions that meet your unique needs and exceed expectations.
+- **Custom Web Development**: From sleek landing pages to robust web applications, I build tailored solutions that meet your unique needs and exceed expectations.
 
-- **Mobile App Development** : Harness the power of mobile technology with intuitive and engaging mobile apps for iOS and Android platforms.
+- **Mobile App Development**: Harness the power of mobile technology with intuitive and engaging mobile apps for iOS and Android platforms.
     
-- **E-commerce Solutions* *: Elevate your online business with seamless e-commerce platforms that streamline operations and maximize revenue.
+- **E-commerce Solutions**: Elevate your online business with seamless e-commerce platforms that streamline operations and maximize revenue.
     
 - **UI/UX Design** : Delight your users with stunning designs and intuitive interfaces that enhance usability and leave a lasting impression.
     
-- **Consultation & Support** : I provide expert guidance and ongoing support to ensure your project's success every step of the way.
+- **Consultation & Support**: I provide expert guidance and ongoing support to ensure your project's success every step of the way.
 </div>
 <br/>
 
