@@ -7,7 +7,6 @@
 <small align="center">A passionate Software Engineer  specializing in crafting elegant solutions to complex problems. With a keen eye for detail and a knack for innovation, I create immersive digital experiences that captivate audiences and drive business growth.
 </small>
 <br/>
-
 <br/>
 
 <div align="center">
