@@ -66,26 +66,6 @@
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
-<br/>
-<div align="center">
-  <h3 align="center">Frontend</h3>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,figma,redux,vite,express" />
-
-  <h3 align="center">Backend</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,mongo,mysql,postgres,firebase,django,flask" /><br>
-  
-  <h3 align="center">Languages </h3>
-   <img src="https://skillicons.dev/icons?i=c,html,css,sass,js,ts,python,bash,regex" /><br>
-
-  <h3 align="center">Tools</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,github,regex,git,docker,netlify,vercel,kubernetes" /><br>
-</div>
-
-<br/>
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
