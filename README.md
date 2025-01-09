@@ -12,9 +12,9 @@
 <div align="center">
 <h4>Welcome to my GitHub Code Tavern...!</h4>
      
-🔭 I’m currently spearheading the development of a revolutionary **Skill Marketplace App**
+🔭 I’m currently working on building my problem-solving skills with **Health Care Related Apps**
 
-🌱 I’m continuously honing my expertise in **NextJS, Django & Flask , Expo/React-Native**
+🌱 I’m continuously honing my expertise in **NextJS & Expo/React-Native**
 
 ⚡ Fun fact "In the early days, **"Computer"** was a job title, and the pioneering programmers were women."
  </div>
