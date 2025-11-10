@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Godsent+Oyarekhua!;"/>
 </h1>
 
-<small align="center">A passionate Software Engineer  specializing in crafting elegant solutions to complex problems. With a keen eye for detail and a knack for innovation, I create immersive digital experiences that captivate audiences and drive business growth.
+<small align="center">A passionate Software Engineer & Med Student specializing in crafting elegant solutions to complex problems. With a keen eye for detail and a knack for innovation, I create immersive digital experiences that captivate audiences and drive business growth.
 </small>
 <br/>
 <br/>
