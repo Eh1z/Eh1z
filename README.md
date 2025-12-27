@@ -1,64 +1,77 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Eh1z&color=blueviolet&plastic" />
 
+
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Godsent+Oyarekhua!;"/>
 </h1>
 
-<small align="center">A passionate Software Engineer & Med Student specializing in crafting elegant solutions to complex problems. With a keen eye for detail and a knack for innovation, I create immersive digital experiences that captivate audiences and drive business growth.
-</small>
-<br/>
-<br/>
+<h1 align="center">
+Godsent Oyarekhua
+</h1>
+<p align="center">
+Software Engineer • Medical Student • Product Builder
+</p>
 
-<div align="center">
-<h4>Welcome to my GitHub Code Tavern...!</h4>
-     
-🔭 I’m currently working on building my problem-solving skills with **Health Care Related Apps**
+<p align="center">
+I design and build high-performing web and mobile products for startups and growing teams.
+Clean UI, solid engineering, and business-focused execution.
+</p>
 
-🌱 I’m continuously honing my expertise in **NextJS & Expo/React-Native**
+---
 
-⚡ Fun fact "In the early days, **"Computer"** was a job title, and the pioneering programmers were women."
- </div>
- <br/>
- 
- <div align="center">
-    
-<h3 align="center"> 🚀 Let's Build Something Amazing Together!</h3>
+### What I Do Best
+- **Web Development (Next.js, React)**  
+  Fast, scalable web apps built for real users and real growth.
 
-## What I Offer:
-<div align="left">
+- **UI/UX Design**  
+  Interfaces that look sharp and convert, not just Dribbble pretty.
 
-- **Custom Web Development**: From sleek landing pages to robust web applications, I build tailored solutions that meet your unique needs and exceed expectations.
+- **MVP & Product Strategy**  
+  Turning ideas into usable products without burning time or budget.
 
-- **Mobile App Development**: Harness the power of mobile technology with intuitive and engaging mobile apps for iOS and Android platforms.
-    
-- **E-commerce Solutions**: Elevate your online business with seamless e-commerce platforms that streamline operations and maximize revenue.
-    
-- **UI/UX Design** : Delight your users with stunning designs and intuitive interfaces that enhance usability and leave a lasting impression.
-    
-- **Consultation & Support**: I provide expert guidance and ongoing support to ensure your project's success every step of the way.
-</div>
-<br/>
+---
 
-</div>
- 
-<div align="center"> 
-   <h4>Let's turn your ideas into reality! Reach out to discuss your project requirements and kickstart our collaboration today.</h4>
+### Why Work With Me
+- 5+ years building production-ready applications  
+- Strong engineering + design mindset  
+- Clear communication and zero agency bloat  
+- Experience across startups, solo founders, and internal tools
+
+I don’t just ship code. I help teams move faster and make better product decisions.
+
+---
+
+### Currently Focused On
+- Building healthcare-related products  
+- Advanced Next.js patterns and mobile apps with Expo  
+- Performance, animations, and user experience polish
+
+---
+
+### Let’s Work
+If you’re building a product and want it done right, let’s talk.
+
+<p align="center">
   <a href="mailto:godsentehiz11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-blueviolet?style=for-the-badge" />
   </a>
-  
-  <a href=https://twitter.com/GodsentEhiz>
-     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://www.linkedin.com/in/godsentehiz/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
   </a>
-    
+</p>
 
- 
-  <a href="https://www.linkedin.com/in/godsentehiz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  
- 
-</div>
+---
+
+<h3 align="center">Stats</h3>
+
+<p align="center">
+  <img width="390" src="https://github-readme-eh1z--streak-stats.vercel.app?user=Eh1z&count_private=true&border_radius=6" />
+</p>
+
+<p align="center">
+  <img width="325" src="https://github-Eh1z-readme-stats.vercel.app/api/top-langs/?username=Eh1z&layout=compact&langs_count=8&border_radius=8" />
+</p>
 
 
 <div align="center">
@@ -68,25 +81,6 @@
   
   <br/><br/>
 </div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-
-  <img width=390 align="center" src="https://github-readme-eh1z--streak-stats.vercel.app?user=Eh1z&count_private=true&theme=default&border_radius=5" alt="top langs" />
-  <br/><br/>
-  <br/>
-  <img width=325 align="center" src="https://github-Eh1z-readme-stats.vercel.app/api/top-langs/?username=Eh1z&hide=HTML&langs_count=8&layout=compact&theme=default&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-
-
 
 
 
