@@ -1,13 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Eh1z&color=blueviolet&plastic" />
 
-
-
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Godsent+Oyarekhua!;"/>
-</h1>
-
-<h1 align="center">
-Godsent Oyarekhua
+Godsent Ehizokhale Oyarekhua
 </h1>
 <p align="center">
 Software Engineer • Medical Student • Product Builder
