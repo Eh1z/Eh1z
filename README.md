@@ -37,7 +37,7 @@ I don’t just ship code. I help teams move faster and make better product decis
 ---
 
 ### Currently Focused On
-- Building healthcare-related products  
+- Building Saas products  
 - Advanced Next.js patterns and mobile apps with Expo  
 - Performance, animations, and user experience polish
 
