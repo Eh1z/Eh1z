@@ -64,7 +64,7 @@ If you’re building a product and want it done right, let’s talk.
 </p>
 
 <p align="center">
-  <img width="325" src="https://github-Eh1z-readme-stats.vercel.app/api/top-langs/?username=Eh1z&layout=compact&langs_count=8&border_radius=8&hide=html,css,scss" />
+  <img width="325" src="https://github-Eh1z-readme-stats.vercel.app/api/top-langs/?username=Eh1z&layout=compact&langs_count=10&border_radius=8&hide=html,css,scss" />
 </p>
 
 
