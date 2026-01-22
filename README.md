@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=Eh1z&color=blueviolet&plastic" />
+<img align="right" src="https://komarev.com/ghpvc/?username=Eh1z&color=blue&plastic" />
 
 <h1 align="center">
 Godsent Ehizokhale Oyarekhua
